@@ -1,0 +1,6 @@
+__pycache__/
+extra/
+graph/
+*.pth
+*.pdf
+*.exe

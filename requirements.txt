@@ -1,0 +1,6 @@
+matplotlib
+numpy
+torch
+networkx
+hypernetx
+pandas
