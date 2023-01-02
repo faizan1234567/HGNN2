@@ -4,4 +4,4 @@ grap/
 *.pth
 *.pdf
 *.exe
-/get-pip.py
+get-pip.py
