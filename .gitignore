@@ -1,6 +1,7 @@
 __pycache__/
 extra/
-grap
+grap/
 *.pth
 *.pdf
 *.exe
+get-pip.py
